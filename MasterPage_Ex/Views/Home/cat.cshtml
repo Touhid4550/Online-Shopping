@@ -1,0 +1,138 @@
+﻿@model List<MasterPage_Ex.Models.ProductTable>
+@{
+    ViewBag.Title = "cat";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+<head>
+    <title>Home</title>
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+    <style>
+        /* Make the image fully responsive */
+        /* .carousel-inner img {
+            width: auto;
+            height: 100%;
+        }*/
+    </style>
+
+</head>
+<body>
+
+
+
+    <div id="demo" class="carousel slide" data-ride="carousel">
+        <ul class="carousel-indicators">
+            <li data-target="#demo" data-slide-to="0" class="active"></li>
+            <li data-target="#demo" data-slide-to="1"></li>
+            <li data-target="#demo" data-slide-to="2"></li>
+        </ul>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/Image/sl1.jpg" alt="Smartphone" class="img-fluid">
+                <div class="carousel-caption">
+                    <h3>Smartphone</h3>
+                    <p>Samsung s9+ Smartphone!</p>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="~/Image/sl2.jpg" alt="Laptop" class="img-fluid">
+                <div class="carousel-caption">
+                    <h3>Macbook</h3>
+                    <p>Very Light Macbook!</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="~/Image/sl3.jpg" alt="Smartphone" class="img-fluid">
+                <div class="carousel-caption">
+                    <h3>Smartphone</h3>
+                    <p>This is First Red Smartphone!</p>
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#demo" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#demo" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+
+    @{
+        int i = 0;
+        List<string> list = new List<string>();
+
+
+        while (i < Model.Count())
+        {
+
+            list.Add(@Model[i].Type); //model.type in list string
+
+
+            i++;
+
+        }
+        List<string> distinct = list.Distinct().ToList();
+        <br />
+        foreach (string value in distinct)
+        {
+            //Console.WriteLine("After: {0}", value);
+            <a href="#" class="btn btn-primary align-content-end">@value</a>
+        }
+
+    }
+
+
+
+    @*@{
+            foreach (var product in Model)
+            {
+                @Html.Partial("PartialViewPage",product)
+            }
+        }*@
+    <br />
+    <h4 style="text-align:center">Total Products: @Model.Count()</h4>
+
+    <div class="row">
+        @{
+            int j = 0;
+
+
+            while (j < Model.Count())
+            {
+
+
+
+                <div class="card col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                    <img class="card-img-top" src="data:image/png;base64, @Convert.ToBase64String(Model[j].ImageData,0,Model[j].ImageData.Length) " alt="Card image" style="width:100%;height:220px">
+                    <div class="card-body">
+                        <h3 class="card-title"><a>@Model[j].ProductName</a></h3>
+                        <h4 class="card-text" style="color:orange">৳:@Model[j].Price</h4>
+                        <p class="card-text">@Model[j].Details</p>
+                        <a href="#" class="btn btn-primary btn-block align-content-end">Add To Cart</a>
+                    </div>
+                </div>
+
+
+
+                j++;
+            }
+
+        }
+
+
+       
+        <button type="button" class="btn btn-outline-success " onclick="@("window.location.href='" + @Url.Action("", "Home") + "'");"> Log Out</button>
+
+    </div>
+
+
+
+
+</body>
+

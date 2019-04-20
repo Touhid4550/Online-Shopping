@@ -1,0 +1,43 @@
+﻿@{ViewBag.Title = "Success";
+if (Session["LoginType"] == "User" || Session["LoginType"] == null)
+{
+    Response.Redirect("~/Home/Login");                                       
+                                                                        //Check Session foe Admin
+
+}}
+
+
+@{
+    ViewBag.Title = "Admin Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4" style="background-color: #dbe0db;">
+        <form>
+            <div >
+                <h4 style="text-align:center">Admin Control</h4>
+                <br />
+
+                
+                <button type="button" class="btn btn-success btn-block" onclick="@("window.location.href='" + @Url.Action("AddProduct", "Admin") + "'")">Add Product</button>
+                <button type="button" class="btn btn-success btn-block" onclick="@("window.location.href='" + @Url.Action("index", "crud") + "'")">Edit Product</button>
+                <button type="button" class="btn btn-success btn-block disabled">Show Order</button>
+                <button type="button" class="btn btn-success btn-block disabled">User List</button>
+            </div>
+
+
+
+
+
+        </form>
+
+
+
+
+
+    </div>
+</div>
+<div class="col-md-4"></div>
+

@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+@using MasterPage_Ex.Controllers
+
+<h2>Cart</h2>
+
+<table class="table table-primary table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+       
+        @foreach (Item item in (List<Item>)Session["cart"])
+        {
+            <tr>
+                <td>@item.Pr.ProductId</td>
+                <td>@item.Pr.ProductName</td>
+                <td>@item.Pr.Price</td>
+                <td>@item.Quantity</td>
+                <td>@(item.Pr.Price * item.Quantity)</td>
+                <td>@Html.ActionLink("Delete", "Delete", "ShoppingCart", new { id =item.Pr.ProductId }, null)
+</td>
+            </tr>
+
+        }
+
+    </tbody>
+</table>
+<br />
+<button type="button" class="btn btn-primary " onclick="@("window.location.href='" + @Url.Action("Index", "Home") + "'");">Continue Shopping</button>
+

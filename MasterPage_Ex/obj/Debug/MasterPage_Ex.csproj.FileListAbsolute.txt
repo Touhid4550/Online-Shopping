@@ -1,0 +1,219 @@
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\MasterPage_Ex.dll.config
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\MasterPage_Ex.dll
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\MasterPage_Ex.pdb
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Helpers.dll
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Mvc.dll
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Razor.dll
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Webpages.Deployment.dll
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Webpages.dll
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Webpages.Razor.dll
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Razor.xml
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Webpages.xml
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Webpages.Deployment.xml
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Webpages.Razor.xml
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Helpers.xml
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Mvc.xml
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\obj\Debug\MasterPage_Ex.csprojResolveAssemblyReference.cache
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\obj\Debug\MasterPage_Ex.dll
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\obj\Debug\MasterPage_Ex.pdb
+E:\.net project @youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Web.Infrastructure.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\MasterPage_Ex.dll.config
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\MasterPage_Ex.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\MasterPage_Ex.pdb
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Web.Infrastructure.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Helpers.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Mvc.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Razor.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.WebPages.Deployment.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.WebPages.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.WebPages.Razor.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Helpers.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Mvc.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.Razor.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.WebPages.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.WebPages.Deployment.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\System.Web.WebPages.Razor.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\obj\Debug\MasterPage_Ex.csprojResolveAssemblyReference.cache
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\obj\Debug\MasterPage_Ex.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\obj\Debug\MasterPage_Ex.pdb
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\EntityFramework.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\EntityFramework.SqlServer.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Owin.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Owin.Security.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Newtonsoft.Json.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Owin.dll
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\EntityFramework.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\EntityFramework.SqlServer.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Owin.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Owin.Security.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.xml
+E:\net_project_youtube\MasterPage_Ex\MasterPage_Ex\bin\Newtonsoft.Json.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\MasterPage_Ex.dll.config
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\MasterPage_Ex.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\MasterPage_Ex.pdb
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\EntityFramework.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\EntityFramework.SqlServer.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Owin.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Owin.Security.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Newtonsoft.Json.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Owin.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.Helpers.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.Mvc.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.Razor.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.WebPages.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.WebPages.Razor.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\EntityFramework.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\EntityFramework.SqlServer.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Owin.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Owin.Security.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\Newtonsoft.Json.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.Helpers.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.Mvc.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.Razor.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.WebPages.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\bin\System.Web.WebPages.Razor.xml
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\obj\Debug\MasterPage_Ex.csprojResolveAssemblyReference.cache
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\obj\Debug\MasterPage_Ex.dll
+C:\Users\Touhid Hasan\Desktop\inkscape\project\MasterPage_Ex\obj\Debug\MasterPage_Ex.pdb
+E:\net_project_youtube\project2\MasterPage_Ex\bin\MasterPage_Ex.dll.config
+E:\net_project_youtube\project2\MasterPage_Ex\bin\MasterPage_Ex.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\MasterPage_Ex.pdb
+E:\net_project_youtube\project2\MasterPage_Ex\bin\EntityFramework.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\EntityFramework.SqlServer.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Owin.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Owin.Security.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Web.Infrastructure.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Newtonsoft.Json.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Owin.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.Helpers.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.Mvc.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.Razor.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.WebPages.Deployment.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.WebPages.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.WebPages.Razor.dll
+E:\net_project_youtube\project2\MasterPage_Ex\bin\EntityFramework.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\EntityFramework.SqlServer.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Owin.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Owin.Security.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\Newtonsoft.Json.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.Helpers.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.Mvc.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.Razor.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.WebPages.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.WebPages.Deployment.xml
+E:\net_project_youtube\project2\MasterPage_Ex\bin\System.Web.WebPages.Razor.xml
+E:\net_project_youtube\project2\MasterPage_Ex\obj\Debug\MasterPage_Ex.csprojResolveAssemblyReference.cache
+E:\net_project_youtube\project2\MasterPage_Ex\obj\Debug\MasterPage_Ex.dll
+E:\net_project_youtube\project2\MasterPage_Ex\obj\Debug\MasterPage_Ex.pdb
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\MasterPage_Ex.dll.config
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\MasterPage_Ex.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\MasterPage_Ex.pdb
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\EntityFramework.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\EntityFramework.SqlServer.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Owin.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Owin.Security.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Web.Infrastructure.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Newtonsoft.Json.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Owin.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.Helpers.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.Mvc.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.Razor.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.WebPages.Deployment.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.WebPages.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.WebPages.Razor.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\EntityFramework.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\EntityFramework.SqlServer.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Owin.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Owin.Security.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\Newtonsoft.Json.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.Helpers.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.Mvc.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.Razor.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.WebPages.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.WebPages.Deployment.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\bin\System.Web.WebPages.Razor.xml
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\obj\Debug\MasterPage_Ex.csprojResolveAssemblyReference.cache
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\obj\Debug\MasterPage_Ex.dll
+E:\net_project_youtube\project2 with cart\MasterPage_Ex\obj\Debug\MasterPage_Ex.pdb
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\MasterPage_Ex.dll.config
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\MasterPage_Ex.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\MasterPage_Ex.pdb
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\EntityFramework.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\EntityFramework.SqlServer.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Owin.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Owin.Security.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Web.Infrastructure.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Newtonsoft.Json.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Owin.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.Helpers.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.Mvc.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.Razor.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.WebPages.Deployment.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.WebPages.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.WebPages.Razor.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\EntityFramework.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\EntityFramework.SqlServer.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Core.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Owin.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Owin.Security.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Owin.Security.Cookies.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Microsoft.Owin.Security.OAuth.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\Newtonsoft.Json.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.Helpers.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.Mvc.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.Razor.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.WebPages.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.WebPages.Deployment.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\bin\System.Web.WebPages.Razor.xml
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\obj\Debug\MasterPage_Ex.csprojResolveAssemblyReference.cache
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\obj\Debug\MasterPage_Ex.dll
+E:\net_project_youtube\Online Shopping\MasterPage_Ex\obj\Debug\MasterPage_Ex.pdb

@@ -1,0 +1,44 @@
+﻿@{
+    Layout = null;
+}
+@model List<MasterPage_Ex.Models.ProductTable>
+
+@*@model MasterPage_Ex.Models.ProductTable*@
+
+
+@*<div class="col-sm-4 col-lg-4 col-md-4">
+    <div class="thumbnail">
+        <img src="data:image/png;base64, @Convert.ToBase64String(Model[j].ImageData,0,Model[j].ImageData.Length) " width="100" />
+        <div class="caption">
+            <h3 class="pull-right">@drink.price.tostring("c") </h3>
+            <h3>
+                <a>@Drink.name</a>
+            </h3>
+            <p>@drink.ShortDdescription</p>
+
+        </div>
+
+    </div>
+
+</div>*@
+@*<h4 style="text-align:center">Total Products :@Model.Count()</h4>
+<table>
+
+    @{
+        int j = 0;
+        for (int i = 0; i < Model.Count(); i += 4)
+        {
+            j = i;
+            <tr>
+                @while (j < i + 4 && j < Model.Count())
+                {
+                    <td>
+                        <img src="data:image/png;base64, @Convert.ToBase64String(Model[j].ImageData,0,Model[j].ImageData.Length) " width="100" />
+                    </td>
+                    j++;
+                }
+            </tr>
+        }
+    }
+</table>*@
+

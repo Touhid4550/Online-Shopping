@@ -1,0 +1,10 @@
+﻿
+@{ViewBag.Title = "User Index";
+if (Session["LoginType"] == "Admin" || Session["LoginType"] == null)
+{
+    Response.Redirect("~/Home/Login");
+
+}}
+
+<h4> Successfully Login User</h4>
+

@@ -1,0 +1,94 @@
+﻿@{ViewBag.Title = "Success";
+if (Session["LoginType"] == "User" || Session["LoginType"] == null)
+{
+    Response.Redirect("~/Home/Login");
+
+}}
+
+@model MasterPage_Ex.Models.ProductTable
+@{
+    ViewBag.Title = "Admin";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+
+<head>
+    <title>Admin</title>
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+</head>
+
+<h4>Admin Panel</h4>
+@using (Html.BeginForm("AddProduct", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="row">
+
+        <div class="col-md-4"></div>
+        <div class="col-md-4" style="background-color: #dbe0db; ">
+            <form>
+
+                <h2 style="text-align:center">Add Product</h2>
+                <div class="form-group">
+                    <label for="text">Product Name:</label>
+                    <input type="text" class="form-control" name="ProductName" required="" oninvalid="this.setCustomValidity('Please Enter valid Product Name')"
+                           oninput="setCustomValidity('')">
+
+                </div>
+                <div class="form-group">
+                    <label for="Price">Price:</label>
+                    <input type="number" class="form-control" name="Price" required="" oninvalid="this.setCustomValidity('Please Enter valid Phone Price')"
+                           oninput="setCustomValidity('')">
+
+                </div>
+                <div class="form-group">
+                    <label for="Brand">Brand:</label>
+                    <input type="text" class="form-control" name="Brand" required="" oninvalid="this.setCustomValidity('Please Enter valid Brand')"
+                           oninput="setCustomValidity('')">
+
+                </div>
+
+
+                <div class="form-group">
+                    <label for="Type">Type:</label>
+                    <input type="text" class="form-control" name="Type" required="" oninvalid="this.setCustomValidity('Please Enter valid Type')"
+                           oninput="setCustomValidity('')">
+
+                </div>
+
+                <div class="form-group">
+                    <label for="Details">Details:</label>
+                    <textarea class="form-control" name="Details" rows="4" required="" oninvalid="this.setCustomValidity('Please Enter valid Details')"
+                              oninput="setCustomValidity('')"></textarea>
+
+                </div>
+
+
+                <div class="form-group">
+
+
+                    <div class="custom-file">
+                        @*<input type="file" class="custom-file-input" id="inputGroupFile01" name="ImageFile">
+                            <label class="custom-file-label" for="inputGroupFile01">Choose Image</label>*@
+                        @Html.TextBoxFor(Model => Model.File, new { type = "file" })
+                    </div>
+                </div>
+
+
+
+                <button type="submit" class="btn btn-success btn-block">Submit</button>
+                <p style="color:green">@ViewBag.Success</p>
+
+            </form>
+
+
+        </div>
+        <div class="col-md-4"></div>
+    </div>
+
+
+}
+
